@@ -1,14 +1,11 @@
 #include <cstdio>
 #include<iostream>
 #include<math.h>
+
 using namespace std;
 
 int main(){
-    float a;
-    float b;
-    float c;
-    float delta;
-    float delta_root;
+    float a, b, c, delta, delta_root;
 
     cout << "a: ";
     cin >> a;
